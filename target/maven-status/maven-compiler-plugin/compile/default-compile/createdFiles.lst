@@ -1,0 +1,10 @@
+br\com\anderson\springboot\model\Description.class
+br\com\anderson\springboot\controller\DesafioController.class
+br\com\anderson\springboot\model\Item.class
+br\com\anderson\springboot\controller\LoginController.class
+br\com\anderson\springboot\DesafioServicesApplication.class
+br\com\anderson\springboot\service\DesafioService.class
+br\com\anderson\springboot\parser\RSSFeedParser.class
+br\com\anderson\springboot\model\Feed.class
+br\com\anderson\springboot\security\SecurityConfig.class
+br\com\anderson\springboot\model\JsonRootBean.class
